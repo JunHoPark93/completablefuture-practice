@@ -1,4 +1,5 @@
 ## CompletableFuture 예제코드 
 
-(블로그)[https://pjh3749.tistory.com/280]
+[게시글 블로그 주소](https://pjh3749.tistory.com/280)
+
 
